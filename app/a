@@ -1,0 +1,4 @@
+app/*.pyc
+app/*.egg-info
+app/.coverage
+app/env/
